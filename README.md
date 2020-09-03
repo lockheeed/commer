@@ -36,7 +36,7 @@ $ python3 commer.py
 Контактная информация
 -
 *Если есть вопросы, пишите:  
-Vk - https://vk.com/momolalka  
+Vk - https://vk.com/lockheeed 
 Gmail - anonimus140119@gmail.com  
 
 P.S.
